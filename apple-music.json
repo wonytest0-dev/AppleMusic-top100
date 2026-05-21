@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-05-21",
+  "updatedDate": "2026-05-22",
   "totalEntries": 11,
   "entries": [
     {
@@ -9,7 +9,8 @@
       "change": "—",
       "status": "stable",
       "title": "Who",
-      "artist": "Jimin"
+      "artist": "Jimin",
+      "image": "/images/default.jpg"
     },
     {
       "country": "Belarus",
@@ -18,7 +19,8 @@
       "change": "—",
       "status": "stable",
       "title": "Who",
-      "artist": "Jimin"
+      "artist": "Jimin",
+      "image": "/images/default.jpg"
     },
     {
       "country": "Belarus",
@@ -27,7 +29,8 @@
       "change": "—",
       "status": "stable",
       "title": "Be Mine",
-      "artist": "Jimin"
+      "artist": "Jimin",
+      "image": "/images/default.jpg"
     },
     {
       "country": "Russia",
@@ -36,7 +39,8 @@
       "change": "—",
       "status": "stable",
       "title": "Who",
-      "artist": "Jimin"
+      "artist": "Jimin",
+      "image": "/images/default.jpg"
     },
     {
       "country": "Belarus",
@@ -45,7 +49,8 @@
       "change": "—",
       "status": "stable",
       "title": "Rebirth (Intro)",
-      "artist": "Jimin"
+      "artist": "Jimin",
+      "image": "/images/default.jpg"
     },
     {
       "country": "Belarus",
@@ -54,7 +59,8 @@
       "change": "—",
       "status": "stable",
       "title": "Like Crazy",
-      "artist": "Jimin"
+      "artist": "Jimin",
+      "image": "/images/default.jpg"
     },
     {
       "country": "Belarus",
@@ -63,7 +69,8 @@
       "change": "—",
       "status": "stable",
       "title": "Slow Dance (feat. Sofia Carson)",
-      "artist": "Jimin"
+      "artist": "Jimin",
+      "image": "/images/default.jpg"
     },
     {
       "country": "Uzbekistan",
@@ -72,7 +79,8 @@
       "change": "—",
       "status": "stable",
       "title": "Be Mine",
-      "artist": "Jimin"
+      "artist": "Jimin",
+      "image": "/images/default.jpg"
     },
     {
       "country": "Belarus",
@@ -81,7 +89,8 @@
       "change": "—",
       "status": "stable",
       "title": "Smeraldo Garden Marching Band",
-      "artist": "Jimin & Loco"
+      "artist": "Jimin & Loco",
+      "image": "/images/default.jpg"
     },
     {
       "country": "Belarus",
@@ -90,7 +99,8 @@
       "change": "—",
       "status": "stable",
       "title": "Closer Than This",
-      "artist": "Jimin"
+      "artist": "Jimin",
+      "image": "/images/default.jpg"
     },
     {
       "country": "Belarus",
@@ -99,7 +109,8 @@
       "change": "—",
       "status": "stable",
       "title": "Interlude : Showtime",
-      "artist": "Jimin"
+      "artist": "Jimin",
+      "image": "/images/default.jpg"
     }
   ]
 }
